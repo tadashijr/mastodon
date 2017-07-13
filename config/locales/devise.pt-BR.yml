@@ -13,7 +13,7 @@ pt-BR:
       locked: A sua conta está protegida
       not_found_in_database: "%{authentication_keys} ou password inválidos."
       timeout: A sua sessão expirou. Por favore entre de novo para continuar.
-      unauthenticated: Você precsa de entrar ou registar-se antes de continuar.
+      unauthenticated: Você precsa de entrar ou registrar-se antes de continuar.
       unconfirmed: Você tem de confirmar o seu endereço de email antes de continuar.
     mailer:
       confirmation_instructions:
